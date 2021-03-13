@@ -1,0 +1,10 @@
+/* 样式重置（reset）选择性的加到页面里面去，不要全部都加进去 */
+body,h1,h2,h3,h4,h5,h6,p,dl,dd,ul,ol,form,input,textarea,th,td,select{margin: 0; padding: 0;}
+em{font-style: normal;}
+li{list-style:  none;}
+a{text-decoration: none;}
+img{border: none; vertical-align:  top;}
+table{border-collapse: collapse;}
+input,textarea{outline: none;}
+textarea{resize: none; overflow: auto;}
+body{font-size: 14px;font-family: "微软雅黑";margin: 0;}   /* 此处的font-size是看设计图的多数字的字体来的 */
